@@ -16,8 +16,8 @@ Full project report [here](https://info-248.web.app/climate_analysis.html)
 
 ## Analysis of NYC Property Dataset in Tableu 
 
-![Alt Text](nyc_1.png)
 ![Alt Text](nyc_3.png)
+![Alt Text](nyc_2.png)
 
 ## Project Enviz 
 
