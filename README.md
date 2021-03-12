@@ -14,6 +14,11 @@ Full project report [here](https://info-248.web.app/climate_analysis.html)
 
 ![Alt Text](climate_dashboard.png)
 
+## Analysis of NYC Property Dataset in Tableu 
+
+![Alt Text](nyc_1.png)
+![Alt Text](nyc_2.png)
+
 ## Project Enviz 
 
 Worked on a project with a environmental science professor to compare two environmental science projects based on 8 factors. 
