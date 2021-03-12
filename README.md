@@ -20,3 +20,8 @@ Full project report [here](https://info-248.web.app/climate_analysis.html)
 ### [Climate Dashboard](https://adityanar.shinyapps.io/Maps/) - Creating using R/Shiny
 
 ![Alt Text](climate_dashboard.png)
+
+## Project RAISE - College of Education 
+
+![Alt Text](crime_2.png)
+
