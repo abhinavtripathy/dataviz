@@ -10,6 +10,13 @@ Worked on a project with a environmental science professor to compare two enviro
 ![Alt Text](spyder_chart.png)
 
 ## Climate Change Project
+
+Full project report [here]()
+
+### Monthly Temperature Change - Created using R
+
 ![Alt Text](climate_df.gif)
+
+### 
 
 
