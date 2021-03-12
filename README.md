@@ -17,6 +17,6 @@ Full project report [here](https://info-248.web.app/climate_analysis.html)
 
 ![Alt Text](climate_df.gif)
 
-### [Climate Dashbaord](https://adityanar.shinyapps.io/Maps/) - Creating using R/Shiny
+### [Climate Dashboard](https://adityanar.shinyapps.io/Maps/) - Creating using R/Shiny
 
 ![Alt Text](climate_dashboard.png)
